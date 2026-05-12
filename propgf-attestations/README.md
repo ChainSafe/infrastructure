@@ -19,7 +19,7 @@ maintainer.
 
 ```sh
 # Verify the introducing commit's signature locally
-git log --show-signature -- propgf-attestations/2026-04.md
+git log --show-signature -- propgf-attestations/<YYYY-MM>.md
 ```
 
 Or, on GitHub, look for the "Verified" badge next to the commit on the file
